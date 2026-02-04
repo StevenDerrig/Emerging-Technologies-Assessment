@@ -1,3 +1,15 @@
+# Main imports for the notebook
 jupyter
 ipython
+ipykernel
+
+# Numerical computing
 numpy
+
+# Quantum computing
+qiskit[visualization]
+qiskit-aer
+
+# Plotting
+matplotlib
+pylatexenc
